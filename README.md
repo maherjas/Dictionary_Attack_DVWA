@@ -1,5 +1,5 @@
 # DVWA Dictionary Attack 
-## See the uploaded file with screenshots [Password Cracking using Python.PDF](https://github.com/maherjas/Dictionary_Attack_DVWA/blob/main/Password%20Cracking%20using%20Python.pdf)
+
 ## Objective
 
 The objective of this tool is to demonstrate a dictionary attack on the Damn Vulnerable Web Application (DVWA). 
@@ -120,4 +120,7 @@ To complete this, you will need:
 ## Conclusion
 
 Once you have completed the above steps, you will successfully demonstrate a dictionary attack on the DVWA, reinforcing your understanding of web application security testing.
+
+## See the uploaded file with screenshots [Password Cracking using Python.PDF](https://github.com/maherjas/Dictionary_Attack_DVWA/blob/main/Password%20Cracking%20using%20Python.pdf)
+
 This tool has been developed by the inspiration from https://github.com/Antu7 -- Thank you. 

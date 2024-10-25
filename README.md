@@ -120,3 +120,4 @@ To complete this, you will need:
 ## Conclusion
 
 Once you have completed the above steps, you will successfully demonstrate a dictionary attack on the DVWA, reinforcing your understanding of web application security testing.
+This tool has been developed by the inspiration from https://github.com/Antu7 -- Thank you. 
